@@ -48,4 +48,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 **Pramoth Selvaraj**
 - Email: pramothselvaraj12@gmail.com
 
+You can find the data source [here](https://github.com/awesomedata/awesome-public-datasets).
+
 Join us in celebrating the world's most beloved sport through the lens of data analysis. Let's embark on this journey together, where football and data unite!
